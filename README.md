@@ -8,7 +8,7 @@ i make [youtube videos](https://www.youtube.com/FaceDevStuff) and some cool shit
   You can contact me on <a href='https://discord.gg/EKQtnY8Z9h'>Discord</a> or at business.facedev@gmail.com
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello+there.)](https://git.io/typing-svg)
 
 --- BEGIN RANDOM STATS NO ONE READS ---
 

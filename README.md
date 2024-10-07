@@ -1,5 +1,6 @@
-<h1 align="left">Yoo</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Welcome+to+my+github+page.)](https://git.io/typing-svg)
+<br></br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello.)](https://git.io/typing-svg)
+
 i do stuff
 <br></br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello+there.)](https://git.io/typing-svg)

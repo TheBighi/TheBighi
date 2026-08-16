@@ -10,7 +10,7 @@
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,html,css" alt="Programming languages" />
 </p>
 
 ### Frontend

@@ -22,7 +22,7 @@
 
 ### 🗺️ AniMap
 
-> A location-based platform for discovering and creating geo-tagged boards, featuring user authentication, interactive mapping, and shared community-driven locations.
+> A location-based platform for discovering and creating geo-tagged boards, featuring user authentication and interactive mapping.
 
 [⌘ Source](https://github.com/TheBighi/AniMap)
 

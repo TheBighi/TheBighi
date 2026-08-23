@@ -5,6 +5,42 @@
   />
 </p>
 
+## Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🪙 Order Flow
+
+> A real-time market data pipeline that maintains sequence-safe Binance order books and streams live updates to a React dashboard.
+
+[⌘ Source](https://github.com/TheBighi/Order-Flow)
+
+</td>
+<td width="33%" valign="top">
+
+### 🗺️ AniMap
+
+> A location-based platform for discovering and creating geo-tagged boards, featuring user authentication, interactive mapping, and shared community-driven locations.
+
+[⌘ Source](https://github.com/TheBighi/AniMap)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔬 PRism
+
+> An engineering intelligence platform that analyzes pull requests to surface code risks, assess test impact, and help reviewers focus on what matters.
+
+[⌘ Source](https://github.com/TheBighi/PRism)
+ 
+
+
+</td>
+</tr>
+</table>
+
 ## Tech Stack
 
 ### Languages

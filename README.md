@@ -13,7 +13,7 @@
 
 ### 🪙 Order Flow
 
-> A real-time market data pipeline that maintains sequence-safe Binance order books and streams live updates to a React dashboard.
+> A real-time market data pipeline that reconstructs Binance order books, processes high-frequency WebSocket streams, and distributes live market state through Redis to an interactive React dashboard.
 
 [⌘ Source](https://github.com/TheBighi/Order-Flow)
 
@@ -22,7 +22,7 @@
 
 ### 🗺️ AniMap
 
-> A location-based platform for discovering and creating geo-tagged boards, featuring user authentication and interactive mapping.
+> A location-based platform for discovering and creating geo-tagged boards, featuring user authentication, interactive mapping, and shared community-driven locations.
 
 [⌘ Source](https://github.com/TheBighi/AniMap)
 
@@ -31,7 +31,7 @@
 
 ### 🔬 PRism
 
-> An engineering intelligence platform that analyzes pull requests to surface code risks, assess test impact, and help reviewers focus on what matters.
+> An engineering intelligence platform that analyzes pull requests by combining static analysis, test-impact evidence, and AI to surface potential code risks, explain their significance, and help reviewers focus on the changes that matter most.
 
 [⌘ Source](https://github.com/TheBighi/PRism)
  

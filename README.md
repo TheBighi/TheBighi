@@ -68,11 +68,19 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,grafana,prometheus,jest" alt="Development tools" />
 </p>
 
-## GitHub Statistics
+## Stats
 
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=TheBighi&hide_border=true&theme=dark"
+  />
+</p>
+
+## Discord
+
+<p align="center">
+  <img
+    src="https://lanyard.cnrad.dev/api/452509789172531211"
   />
 </p>
